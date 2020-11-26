@@ -1,1 +1,1 @@
-# shopping-lis
+https://dominikabarrett.github.io/shopping-list/
